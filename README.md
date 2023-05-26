@@ -1,2 +1,5 @@
-﻿# sample-code
-This a racing games by Java.
+﻿# WackyRacer with Java
+ This a racing games by Java.
+ IDE: Netbeans v13.
+ 
+
