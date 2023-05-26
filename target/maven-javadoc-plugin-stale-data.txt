@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'E:/5-10/wackyracergame-pleaseupdate/WackyRacer/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/5-10/wackyracergame-pleaseupdate/WackyRacer/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'WackyRacer 1.0 API'
+-use
+-version
+-windowtitle
+'WackyRacer 1.0 API'
+wackyracer
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\src\main\java = 1683697744039
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\allclasses-index.html = 1683746580807
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\allpackages-index.html = 1683746580810
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\copy.svg = 1683746580844
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\element-list = 1683746580679
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\help-doc.html = 1683746580840
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\index-all.html = 1683746580833
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\index.html = 1683746580836
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\member-search-index.js = 1683746580813
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\module-search-index.js = 1683746580811
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\overview-tree.html = 1683746580785
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\package-search-index.js = 1683746580812
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\script.js = 1683746580843
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\search-page.js = 1683746580846
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\search.html = 1683746580834
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\search.js = 1683746580845
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\serialized-form.html = 1683746580710
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\stylesheet.css = 1683746580842
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\tag-search-index.js = 1683746580813
+E:\5-10\wackyracergame-pleaseupdate\WackyRacer\target\apidocs\type-search-index.js = 1683746580812
